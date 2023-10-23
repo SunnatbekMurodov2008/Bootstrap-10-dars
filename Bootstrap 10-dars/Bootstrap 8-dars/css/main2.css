@@ -1,0 +1,167 @@
+.bg{
+    background: linear-gradient(0deg,aquamarine,deepskyblue);
+    height: 350px;
+    width: 100%;
+}
+
+.loader{
+    position: absolute;
+    margin-left: 100px;
+    width: 100px;
+    height: 100px;
+    background-color: rgba(255, 255, 255, .2);
+    border-radius: 20px;
+    top: -110px;
+    left: 60%;
+    animation-name: wrap;
+    animation-duration: 6s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+
+}
+@keyframes wrap {
+    0%{
+        transform: translate(0,450px) rotate(360deg);
+    }
+}
+.loader1{
+    position: absolute;
+    margin-left: 100px;
+    width: 100px;
+    height: 100px;
+    background-color: rgba(255, 255, 255, .2);
+    border-radius: 20px;
+    top: -110px;
+    left: 30%;
+    animation-name: wrap;
+    animation-duration: 4s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+
+}
+@keyframes wrap {
+    0%{
+        transform: translate(0,450px) rotate(360deg);
+    }
+
+}
+.loader2{
+    position: absolute;
+    margin-left: 100px;
+    width: 50px;
+    height: 50px;
+    background-color: rgba(255, 255, 255, .2);
+    border-radius: 20px;
+    top: -110px;
+    left: 10%;
+    animation-name: wrap;
+    animation-duration: 10s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+
+}
+@keyframes wrap {
+    0%{
+        transform: translate(0,450px) rotate(360deg);
+    }
+}
+.loader2{
+    position: absolute;
+    margin-left: 100px;
+    width: 65px;
+    height: 65px;
+    background-color: rgba(255, 255, 255, .2);
+    border-radius: 20px;
+    top: -110px;
+    left: 90%;
+    animation-name: wrap;
+    animation-duration: 10s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+
+}
+@keyframes wrap {
+    0%{
+        transform: translate(0,450px) rotate(360deg);
+    }
+}
+.loader3{
+    position: absolute;
+    margin-left: 100px;
+    width: 75px;
+    height: 75px;
+    background-color: rgba(255, 255, 255, .2);
+    border-radius: 20px;
+    top: -110px;
+    left: 80%;
+    animation-name: wrap;
+    animation-duration: 3s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+
+}
+@keyframes wrap {
+    0%{
+        transform: translate(0,450px) rotate(360deg);
+    }
+}
+.loader4{
+    position: absolute;
+    margin-left: 100px;
+    width: 120px;
+    height: 120px;
+    background-color: rgba(255, 255, 255, .2);
+    border-radius: 20px;
+    top: -110px;
+    left: 44%;
+    animation-name: wrap;
+    animation-duration: 9s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+
+}
+@keyframes wrap {
+    0%{
+        transform: translate(0,450px) rotate(360deg);
+    }
+}
+.loader5{
+    position: absolute;
+    margin-left: 100px;
+    width: 120px;
+    height: 120px;
+    background-color: rgba(255, 255, 255, .2);
+    border-radius: 20px;
+    top: -110px;
+    left: 44%;
+    animation-name: wrap;
+    animation-duration: 20s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+
+}
+@keyframes wrap {
+    0%{
+        transform: translate(0,450px) rotate(360deg);
+    }
+}
+.loader6{
+    position: absolute;
+    margin-left: 100px;
+    width: 190px;
+    height: 190px;
+    background-color: rgba(255, 255, 255, .2);
+    border-radius: 20px;
+    top: -110px;
+    left: 70%;
+    animation-name: wrap;
+    animation-duration: 30s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+
+}
+@keyframes wrap {
+    0%{
+        transform: translate(0,450px) rotate(360deg);
+    }
+}
